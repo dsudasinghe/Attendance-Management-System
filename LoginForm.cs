@@ -98,7 +98,7 @@ namespace attendence_management_system
             else
             {
                 // not valid
-                MessageBox.Show("login error");
+                MessageBox.Show("Login Error");
                 loginFlag = false;
 
             }
